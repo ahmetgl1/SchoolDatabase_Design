@@ -1,6 +1,6 @@
 
 # School Database Design
-İlişkisel Veritabanı Tasarımı
+
 ![Ekran Alıntısı](https://github.com/ahmetgl1/SchoolDatabase_Design/assets/81171832/6db0c9c6-3d2b-4c6d-8a47-e45a0724acd3)
 
 
