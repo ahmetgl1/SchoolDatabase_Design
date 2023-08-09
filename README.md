@@ -1,8 +1,8 @@
 
-YMYP Database Design
 # School Database Design
 İlişkisel Veritabanı Tasarımı
-![image](https://github.com/ahmetgl1/SchoolDatabaseDesign/assets/81171832/8b68a91b-dd9a-4079-a489-8678492aed64)
+![Ekran Alıntısı](https://github.com/ahmetgl1/SchoolDatabase_Design/assets/81171832/6db0c9c6-3d2b-4c6d-8a47-e45a0724acd3)
+
 
 
 <div style="text-align:center;">
