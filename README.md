@@ -24,7 +24,7 @@ LOG ON
     FILENAME = 'C:\Program Files\Microsoft SQL Server\MSSQL16.MSSQLSERVER\MSSQL\DATA\SchoolDatabase_log.ldf'
 )
 ```
-- "**SchoolDatabase**" adında bir veritabanı oluşturuldu.
+- "**SchoolDatabase"** adında bir veritabanı oluşturuldu.
 
 Datalar, belirtilen dosya yolunda "SchoolDatabase.mdf" ve "SchoolDatabase_log.ldf" dosyalarında depolanacaktır.
 *(log yedekleme veya silinme gibi durumlarda kullanmak için)*
